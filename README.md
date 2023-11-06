@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dong She</h1>
-<h3 align="center">A first-year Master's student at the University of Copenhagen studying Computer Science.</h3>
+<h3 align="center">A Master's student at the University of Copenhagen studying Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jax922&label=Profile%20views&color=0e75b6&style=flat" alt="jax922" /> </p>
 
